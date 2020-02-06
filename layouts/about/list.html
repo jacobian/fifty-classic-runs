@@ -1,0 +1,16 @@
+{{ define "content" }}
+  <main class="mb-24">
+    {{ .Content }}
+  </main>
+  
+  <h2 class="text-3xl mb-6 font-bold">More:</h1>
+  <section class="mb-24">
+    {{ range .Pages.ByTitle -}}
+      <div>
+        <p class="mb-6">
+          <a class="text-lg" href="{{ .RelPermalink }}">{{ .Title }}</a> 
+        </p>
+      </div>
+    {{ end }}
+  </section>
+{{ end }}

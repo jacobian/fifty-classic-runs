@@ -1,0 +1,30 @@
+{{ define "heading" }}
+  <div>
+    <h1 class="text-4xl font-bold">{{ .Site.Title }}</h1>
+    <p>{{ .Site.Params.tagline }}</p>
+  </div>
+{{ end }}
+
+{{ define "content" }}
+  <section class="mb-24">
+    {{ range where site.Pages "Section" "runs" -}}
+      <div>
+        <p class="mb-6">
+          <a class="text-lg" href="{{ .RelPermalink }}">{{ .Title }}</a> 
+        </p>
+      </div>
+    {{ end }}
+  </section>
+  <hr>
+  <section class="mb-24">
+    {{ range where site.Pages "Section" "about" -}}
+      <div>
+        <p class="mb-6">
+          <a class="text-lg" href="{{ .RelPermalink }}">{{ .Title }}</a> 
+        </p>
+      </div>
+    {{ end }}
+  </section>
+
+{{ end }}
+

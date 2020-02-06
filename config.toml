@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Fifty Classic United States Adventure Runs"
+theme = "hugo-tailwind-journal"
+
+[taxonomies]
+state = "state"
+difficulty = "difficulty"
+
+[permalinks]
+runs = ":slug/"
