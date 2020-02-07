@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>State on Fifty Classic United States Adventure Runs</title>
+    <link>http://example.org/state/</link>
+    <description>Recent content in State on Fifty Classic United States Adventure Runs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/state/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CA</title>
+      <link>http://example.org/state/ca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/state/ca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CO</title>
+      <link>http://example.org/state/co/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/state/co/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MD</title>
+      <link>http://example.org/state/md/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/state/md/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MN</title>
+      <link>http://example.org/state/mn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/state/mn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NC</title>
+      <link>http://example.org/state/nc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/state/nc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NV</title>
+      <link>http://example.org/state/nv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/state/nv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OR</title>
+      <link>http://example.org/state/or/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/state/or/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PA</title>
+      <link>http://example.org/state/pa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/state/pa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TN</title>
+      <link>http://example.org/state/tn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/state/tn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UT</title>
+      <link>http://example.org/state/ut/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/state/ut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VA</title>
+      <link>http://example.org/state/va/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/state/va/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WA</title>
+      <link>http://example.org/state/wa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/state/wa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WV</title>
+      <link>http://example.org/state/wv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/state/wv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

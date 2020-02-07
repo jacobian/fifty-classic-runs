@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CA on Fifty Classic United States Adventure Runs</title>
+    <link>http://example.org/state/ca/</link>
+    <description>Recent content in CA on Fifty Classic United States Adventure Runs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/state/ca/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Skyline to the Sea</title>
+      <link>http://example.org/skyline-to-the-sea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/skyline-to-the-sea/</guid>
+      <description>extension option: https://fastestknowntime.com/route/bay-area-ocean-bay-ca</description>
+    </item>
+    
+    <item>
+      <title>Tahoe Rim Trail</title>
+      <link>http://example.org/tahoe-rim-trail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tahoe-rim-trail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Western States Trail: Robinson to the River</title>
+      <link>http://example.org/western-states-trail-robinson-to-the-river/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/western-states-trail-robinson-to-the-river/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yosemite Valley Circumnavigation</title>
+      <link>http://example.org/yosemite-valley-circumnavigation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/yosemite-valley-circumnavigation/</guid>
+      <description>https://fastestknowntime.com/route/yosemite-valley-circumnavigation-ca http://ericjlee.com/Blogs/?p=739</description>
+    </item>
+    
+  </channel>
+</rss>

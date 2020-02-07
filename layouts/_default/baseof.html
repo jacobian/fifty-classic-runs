@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    {{ hugo.Generator }}
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>
+      {{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}
+    </title>
+    {{ $style := resources.Get "main.css" | postCSS }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Barlow:400,400i,700&amp;display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="font-serif bg-gray-200 border-t-16 border-red-800 antialiased">
+    <div class="w-full p-6 md:w-2/3 md:px-0 md:mx-auto xl:w-2/5">
+      <header class="mb-6">
+        <div class="mb-6 md:flex md:items-center">
+          {{ block "heading" . }}
+          <div>
+            <h1 class="text-4xl font-bold">{{ .Title }}</h1>
+          </div>
+          {{ end }}
+        </div>
+      </header>
+      {{ block "content" . }}{{ end }}
+      <footer></footer>
+    </div>
+  </body>
+</html>

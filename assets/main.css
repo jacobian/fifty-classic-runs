@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply text-gray-900;
+}
+
+article {
+  @apply text-lg tracking-wide;
+}
+
+article p,
+article ol,
+article ul {
+  @apply mb-4;
+}
+
+article li {
+  @apply list-disc ml-8;
+}
+
+a {
+  @apply border-b border-black text-black;
+}

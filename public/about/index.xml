@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Fifty Classic United States Adventure Runs</title>
+    <link>http://example.org/about/</link>
+    <description>Recent content in About on Fifty Classic United States Adventure Runs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Difficulty Ratings</title>
+      <link>http://example.org/about/difficulty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/difficulty/</guid>
+      <description>About the difficulty ratings
+Given as &amp;ldquo;50k&amp;rdquo; / &amp;ldquo;50M&amp;rdquo; / &amp;ldquo;100M&amp;rdquo;.
+These aren&#39;t distances, per se, but are a difficulty relative to an ultra race distance &amp;ndash; e.g., if you can complete a moderately difficult race of that distance, you should be fit enough to do this run. You&#39;ll likely be slower &amp;ndash; self-support, navigatgion, etc &amp;ndash; but should be able to hack it.
+Assume these are moderately difficult mountain races: so, mostly trail (single or doubletrack), runnable, maybe with some mildly technical sections, and total elevation gain around 100-150 feet per mile (e.</description>
+    </item>
+    
+  </channel>
+</rss>
